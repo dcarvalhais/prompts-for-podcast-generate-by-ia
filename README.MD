@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./assets/cover.jpg"
+    width="300"
+/>
+</p>
+
 # Projeto Podcast Gerado por I.A.s
 
 ## 💻 Tecnologias utilizadas no projeto
